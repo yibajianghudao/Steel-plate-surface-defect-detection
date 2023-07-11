@@ -1,0 +1,6 @@
+crazing: 0
+inclusion: 20
+patches: 0
+pitted_surface: 0
+rolled-in_scale: 5
+scratches: 0
